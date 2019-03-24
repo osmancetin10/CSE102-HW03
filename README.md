@@ -3,10 +3,10 @@ Homework 3 of CSE102 class at Gebze Technical University
 
 This program does
 	
-  Horse Racing Game,
+	Horse Racing Game,
 	
-  Occurrence Counter,
+	Occurrence Counter,
 	
-	  Triangle of Sequences
+	Triangle of Sequences
 
 with using menu.
