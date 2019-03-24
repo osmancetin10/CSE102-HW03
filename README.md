@@ -7,6 +7,6 @@ This program does
 	
   Occurrence Counter,
 	
-  Triangle of Sequences
+	  Triangle of Sequences
 
 with using menu.
